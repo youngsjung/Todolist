@@ -1,0 +1,35 @@
+<!Doctype html>
+<html>
+<head>
+
+<title> TO DO LIST</title>
+
+ <link rel="stylesheet" href="Style.css" />
+ <style>
+     input{font-family: 'Papyrus';  color:#6E6E6E; background:#FAFAFA; font-size: 34px;} 
+      button {font-family: 'Papyrus';  color:#6E6E6E; background:#FAFAFA; font-size: 34px;} 
+
+
+ </style>
+</head>
+<body>
+    <div id= "title">
+        To   Do   LIST
+        </div>
+        <div id="input">
+            <input type="text" class="text-basic" >
+            <button type="button" id="Add" >
+            +</button>
+        
+        </form>
+        </div>
+
+
+
+   
+
+
+
+
+</body>
+</html>
