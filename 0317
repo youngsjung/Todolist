@@ -1,0 +1,40 @@
+<!Doctype html>
+<html>
+<head>
+ <meta charset = "UTF-8">
+<title> TO DO LIST</title>
+<link href="http://fonts.googleapis.com/earlyaccess/jejugothic.css" rel="stylesheet">
+ <link rel="stylesheet" href="Style.css" />
+<style>
+   
+   .jg{font-family: 'Jeju Gothic', sans-serif;}
+    body{margin: 0; color: #ffffff; background-color: #9dc6c9}
+    button{border: 2px solid skyblue;,background-color: rgba(0,0,0,0);,color: skyblue;,padding: 5px }
+    
+
+</style>
+
+ 
+</head>
+
+<body>
+    
+    <div id= "title">
+        <p class="jg">   To   Do   LIST
+        </div>
+        
+        <div class="abox">
+            <div class="Search" style="border-top:2px solid; border-bottom:2px solid;height:300px; width:600px; margin: auto;" >
+                <input type="text" class="text-basic>
+                <button type="button" id="Add"> Add </button>     
+             </div>
+
+   
+
+    </div>
+
+
+
+
+</body>
+</html>
